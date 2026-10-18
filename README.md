@@ -13,7 +13,7 @@ Hệ thống thu thập, lưu trữ, tiền xử lý và trực quan hóa dữ l
  Hướng dẫn Cài đặt & Chạy Dự án
 
 1. Cài đặt Môi trường
-```bash
+bash
 git clone <URL_REPOSITORY_CUA_BAN>
 cd IoT_Data_Pipeline
 python -m venv .venv
